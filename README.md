@@ -1,2 +1,1 @@
-# Git-developer
-all about managing projects
+all about project management
