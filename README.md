@@ -1,1 +1,1 @@
-all about project management
+all about git bash
